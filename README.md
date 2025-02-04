@@ -25,6 +25,11 @@ Start with [00_prerequisites.ipynb](00_prerequisites.ipynb) for details on how t
 Next, go through the other notebooks one by one.
 
 
+### Explore end-to-end CDK solution
+
+Check out [this GitHub repo](https://github.com/aws-samples/intelligent-document-processing-with-amazon-bedrock) to deploy an end-to-end scalable cloud-based IDP solution, including OCR, informatino extraction, and demo frontend.
+
+
 ## License
 
 The original source of PDFs in `demo-files` folder is:
